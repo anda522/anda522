@@ -1,19 +1,16 @@
-## :sunglasses: Hey！Nice to see you. 👋
-
-### :yum: About me :heart:
-
-:zap:  [![](https://img.shields.io/badge/-My%20Blog-blue)](https://wyqz.top) ：https://wyqz.top
-
-:sunny:   [![](https://img.shields.io/badge/-CSDN-red)](https://blog.csdn.net/qq_50285142) ：https://blog.csdn.net/qq_50285142
-
-:sweet_potato: Code! Code! Code! :sweet_potato: Think! Think! Think! :sweet_potato: Like! Like! Like! :sweet_potato: 
-
----
-
+<h2 align="center">😎Hey！Nice to see you.👋</h2>
+<h3 align="center">😋 About me❤️</h3>
+<h4 align="center">
+    <a href="https://wyqz.top">Blog</a>
+    •
+    <a href="https://blog.csdn.net/qq_50285142">CSDN</a>
+</h4>
+<h5 align="center"> 🍠 Code! Code! Code! 🍠 Think! Think! Think! 🍠 Like! Like! Like! 🍠 </h5>
 <div>
     <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anda522&layout=compact">
     <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=anda522&show_icons=true&theme=synthwave">
 </div>
+
 
 
 
