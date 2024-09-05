@@ -1,8 +1,9 @@
 <h2 align="center">😎Hey！Nice to see you.👋</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <h3>😋 About me ✨</h3>
+<p align="center">
+  <b>😋 About me ✨</b>
   <img src="https://komarev.com/ghpvc/?username=anda522" style="margin-left: 10px;">
-</div>
+</p>
+
 
 <h4 align="center">
     <a href="https://wyqz.top">Blog</a>
@@ -16,6 +17,4 @@
     	<td><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=anda522&show_icons=true&theme=synthwave"></td>
     </tr>
 </table>
-
-
 
