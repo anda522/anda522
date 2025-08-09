@@ -1,24 +1,11 @@
-<div style="text-align: center; padding: 20px;">
-    <h2 style="font-size: 2em; color: #333;">😎 Hey there! Nice to meet you! 👋</h2>
-    <p style="font-size: 1em; color: #555;">
-        <b>😋 About me ✨</b>
-        <img src="https://komarev.com/ghpvc/?username=anda522" style="margin-left: 10px; vertical-align: middle;">
-    </p>
-    <p style="font-size: 1em; color: #555;">  
-        I’m a Master's student at the University of Science and Technology of China (USTC). I’m constantly exploring new ideas and technologies, and always seeking to learn and grow.
-    </p>
-</div>
+## 😎 Hey there! Nice to meet you! 👋
 
-<div style="text-align: center; padding: 20px;">
-    <p>
-        You can learn more about me here:
-    </p>
-    <p>
-        <a href="https://wyqz.top" style="text-decoration: none; color: #007bff;">My Personal Blog</a> |  
-        <a href="https://profile.wyqz.top" style="text-decoration: none; color: #007bff;">My CSDN</a>
-    </p>
-</div>
-
+I’m a Master student at the University of Science and Technology of China (USTC). I’m constantly exploring new ideas and technologies, and always seeking to learn and grow.
+  
+## 🔗 Find me here
+![Profile Views](https://komarev.com/ghpvc/?username=anda522)
+[![PersonalBlog](https://img.shields.io/badge/Website-blue?style=flat&logo=logseq)](https://wyqz.top) 
+[![CSDN](https://img.shields.io/badge/CSDN-gray?style=flat&logo=csdn)](https://blog.csdn.net/qq_50285142)
 
 <table width="100%" align="center">
     <tr>
