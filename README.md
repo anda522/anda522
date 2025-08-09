@@ -1,16 +1,24 @@
-<h2 align="center">😎Hey！Nice to see you.👋</h2>
-<p align="center">
-  <b>😋 About me ✨</b>
-  <img src="https://komarev.com/ghpvc/?username=anda522" style="margin-left: 10px;">
-</p>
+<div style="text-align: center; padding: 20px;">
+    <h2 style="font-size: 2em; color: #333;">😎 Hey there! Nice to meet you! 👋</h2>
+    <p style="font-size: 1em; color: #555;">
+        <b>😋 About me ✨</b>
+        <img src="https://komarev.com/ghpvc/?username=anda522" style="margin-left: 10px; vertical-align: middle;">
+    </p>
+    <p style="font-size: 1em; color: #555;">  
+        I’m a Master's student at the University of Science and Technology of China (USTC). I’m constantly exploring new ideas and technologies, and always seeking to learn and grow.
+    </p>
+</div>
 
+<div style="text-align: center; padding: 20px;">
+    <p>
+        You can learn more about me here:
+    </p>
+    <p>
+        <a href="https://wyqz.top" style="text-decoration: none; color: #007bff;">My Personal Blog</a> |  
+        <a href="https://profile.wyqz.top" style="text-decoration: none; color: #007bff;">My CSDN</a>
+    </p>
+</div>
 
-<h4 align="center">
-    <a href="https://wyqz.top">Blog</a>
-    •
-    <a href="https://blog.csdn.net/qq_50285142">CSDN</a>
-</h4>
-<h5 align="center"> 🍠 Code! Code! Code! 🍠 Think! Think! Think! 🍠 Like! Like! Like! 🍠 </h5>
 
 <table width="100%" align="center">
     <tr>
