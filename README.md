@@ -1,7 +1,7 @@
-## 😎 Hey there! Nice to meet you! 👋
+![intro](https://readme-typing-svg.demolab.com/?lines=😎Hey+there!+I'm+Yaqi+Wang.;Nice+to+meet+you!👋&fontSize=40&fontWeight=bold)
 
 I’m a Master student at the University of Science and Technology of China (USTC). I’m constantly exploring new ideas and technologies, and always seeking to learn and grow.
-  
+
 ## 🔗 Find me here
 ![Profile Views](https://komarev.com/ghpvc/?username=anda522)
 [![PersonalBlog](https://img.shields.io/badge/Website-blue?style=flat&logo=logseq)](https://wyqz.top) 
