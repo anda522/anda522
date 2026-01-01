@@ -17,23 +17,23 @@
     <td><a href="https://github.com/anda522">
         <picture>
             <source
-              srcset="https://github-readme-stats.vercel.app/api?username=anda522&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&theme=dark"
+              srcset="https://github-readme-stats-fast.vercel.app/api?username=anda522&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&theme=dark"
               height="200" media="(prefers-color-scheme: dark)" />
             <source
-              srcset="https://github-readme-stats.vercel.app/api?username=anda522&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff"
+              srcset="https://github-readme-stats-fast.vercel.app/api?username=anda522&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff"
               height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img src="https://github-readme-stats.vercel.app/api?username=anda522&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200" />
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=anda522&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200" />
         </picture>
     </a></td>
     <td><a href="https://github.com/anda522">
         <picture height="200" >
             <source
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anda522&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&theme=dark"
+              srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anda522&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&theme=dark"
               height="200" media="(prefers-color-scheme: dark)" />
             <source
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anda522&hide_border=true&layout=compact&langs_count=8&bg_color=ffffff"
+              srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anda522&hide_border=true&layout=compact&langs_count=8&bg_color=ffffff"
               height="200" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anda522&hide_border=true&layout=compact&langs_count=8" height="200" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anda522&hide_border=true&layout=compact&langs_count=8" height="200" />
         </picture>
     </a></td>
     </tr>
